@@ -1,0 +1,10 @@
+numpy
+pandas
+xgboost
+shap
+pyarrow
+openpyxl
+scikit-learn
+kneed
+joblib
+tqdm

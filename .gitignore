@@ -1,0 +1,7 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local data files directory
+**/data_files/

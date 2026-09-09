@@ -1,0 +1,2 @@
+Feature_Set,roc_auc_mean,roc_auc_std,pr_auc_mean,pr_auc_std
+set_15_mth_chem_lp_lcoo_gp,0.7888006494908758,0.0312206021857699,0.3836455533664911,0.048274011594803996
