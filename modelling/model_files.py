@@ -192,7 +192,7 @@ def run_feature_set_training(
     feature_sets_to_try = generate_feature_combinations()
     
     #Testing
-    feature_sets_to_try = feature_sets_to_try[26:]
+    #feature_sets_to_try = feature_sets_to_try[26:]
     
     
     feature_set_strings = []
